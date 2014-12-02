@@ -1,0 +1,5 @@
+/Users/JosephJohnson/Desktop/Development/basic/Code2040Challenges/Stage Two/C#/findNeedleInHaystack/findNeedleInHaystack/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/JosephJohnson/Desktop/Development/basic/Code2040Challenges/Stage Two/C#/findNeedleInHaystack/findNeedleInHaystack/bin/Debug/findNeedleInHaystack.exe.mdb
+/Users/JosephJohnson/Desktop/Development/basic/Code2040Challenges/Stage Two/C#/findNeedleInHaystack/findNeedleInHaystack/bin/Debug/findNeedleInHaystack.exe
+/Users/JosephJohnson/Desktop/Development/basic/Code2040Challenges/Stage Two/C#/findNeedleInHaystack/findNeedleInHaystack/obj/x86/Debug/findNeedleInHaystack.exe
+/Users/JosephJohnson/Desktop/Development/basic/Code2040Challenges/Stage Two/C#/findNeedleInHaystack/findNeedleInHaystack/obj/x86/Debug/findNeedleInHaystack.exe.mdb
